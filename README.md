@@ -40,11 +40,6 @@ All files will compile into **transformed** folder. **noImplicitAny** is set to 
 **lib** is set to ["ES6", "DOM"]
 
 
-## .prettierrc:
-
-I've added some prettier rules, feel free to add yours.
-
-
 ## .eslintrc.json:
 
 I've included prettier as **extends**, and add it into **plugins**.
@@ -59,7 +54,3 @@ helper folder has been changed to be under the name of **Assest**. It search for
 
 Comes directly from jasmine reporter documentation.
 
-
-## .gitignore:
-
-It ignores the **node_modules** packages.
