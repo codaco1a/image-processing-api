@@ -57,7 +57,7 @@ helper folder has been changed to be under the name of **Assest**. It search for
 
 ## reporter.ts:
 
-All code from udacity lessons, and comes directly from jasmine reporter documentation.
+Comes directly from jasmine reporter documentation.
 
 
 ## .gitignore:
