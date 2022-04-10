@@ -36,7 +36,6 @@ All uncompiled TypeScript files are in this folder, a long-side with jasmine tes
 
 ## tsconfig.json:
 
-**node_modules** have been execluded, in addition to **.gitignore**, **spec**, and **transformed** files according to udacity lessons instructions
 All files will compile into **transformed** folder. **noImplicitAny** is set to true with **strict** checking.
 **lib** is set to ["ES6", "DOM"]
 
